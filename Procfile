@@ -1,1 +1,1 @@
-web: python SATISH.py
+web: python AYAN.py
