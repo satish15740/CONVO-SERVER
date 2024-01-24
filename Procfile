@@ -1,1 +1,1 @@
-web: python SATISH.py
+web: python AWDII.py
